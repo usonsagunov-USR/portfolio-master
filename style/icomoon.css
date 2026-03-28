@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../webfonts/icomoon.eot?sir7g4');
+  src:  url('../webfonts/icomoon.eot?sir7g4#iefix') format('embedded-opentype'),
+    url('../webfonts/icomoon.ttf?sir7g4') format('truetype'),
+    url('../webfonts/icomoon.woff?sir7g4') format('woff'),
+    url('../webfonts/icomoon.svg?sir7g4#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nextjs:before {
+  content: "\e90d";
+}
+.icon-graph:before {
+  content: "\e90e";
+}
+.icon-typescript:before {
+  content: "\e90f";
+}
+.icon-tailwind:before {
+  content: "\e910";
+}
+.icon-redux:before {
+  content: "\e911";
+}
+.icon-nodejs:before {
+  content: "\e912";
+}
+.icon-graphQL1:before {
+  content: "\e913";
+}
+.icon-github:before {
+  content: "\e914";
+}
+.icon-git:before {
+  content: "\e915";
+}
+.icon-js:before {
+  content: "\e916";
+}
+.icon-css:before {
+  content: "\e917";
+}
+.icon-html:before {
+  content: "\e918";
+}
+.icon-react:before {
+  content: "\e919";
+}
